@@ -3,8 +3,7 @@
 
 I’m an experienced programmer and committed to
 maintaining cutting-edge technical skills and up to
-date with industry knowledge. Experience with the Web Development,
-Mobile App and DevOps.Can
+date with industry knowledge and experience in Web Development.Can
 lead, self-manage, and collaborate in a team setting.
 
 ## Contact Information
